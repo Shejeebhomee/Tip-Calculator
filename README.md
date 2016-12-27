@@ -7,7 +7,7 @@ My PHP tip calculator
 
 Submitted by: **Oluwasijibomi Ajisegiri**
 
-Time spent: **72** hours spent in total
+Time spent: **25** hours spent in total
 
 ## User Stories
 
